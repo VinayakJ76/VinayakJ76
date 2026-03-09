@@ -5,11 +5,6 @@ Senior Platform / DevOps Engineer
 AWS | Kubernetes | Terraform | GitOps | AI Infra
 ---
 
----
-
-
-About Me
-
 ## 🚀 About Me
 
 - 🔭 Currently working as **Independent DevOps Consultant**
