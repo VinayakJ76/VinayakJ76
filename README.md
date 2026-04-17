@@ -1,5 +1,5 @@
 ------------------------------------------------
-Hi 👋 I'm Shakthi
+Hi 👋 I'm "Shakthi Vinayak"
 Senior Platform / DevOps Engineer
 
 AWS | Kubernetes | Terraform | GitOps | AI Infra
